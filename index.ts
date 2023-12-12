@@ -49,8 +49,8 @@ const exportFromNotion = async (
       exportOptions: {
         exportType: format,
         collectionViewExportType: "currentView",
-        timeZone: "Europe/Berlin",
-        locale: "en",
+        timeZone: "Asia/Shanghai",
+        locale: "zh",
         preferredViewMap: {},
       },
     },
